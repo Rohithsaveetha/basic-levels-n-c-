@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+	int a,b,add;
+	cout<<"enter the two numbers ";
+	cin>>a>>b;
+	add=a+b;
+	cout<<"the add of two numbers is :"<<add;
+	return 0;
+}
